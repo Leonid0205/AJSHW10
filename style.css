@@ -1,0 +1,11 @@
+* {
+    text-decoration: none;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.reviews-box {
+    display: grid;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
